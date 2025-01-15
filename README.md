@@ -1,4 +1,5 @@
 # Healthcare-Data-Tableau-Project
+![Screenshot 2025-01-15 144544](https://github.com/user-attachments/assets/65cfa196-9ffc-4a7f-b25b-dc8b6dd898f7)
 
 ## Insights from the Healthcare Data Analysis Dashboard:
 
